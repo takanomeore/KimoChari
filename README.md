@@ -1,4 +1,4 @@
-# KimoChari  
-  各ブランチの説明  
-  main:現在
-  demo:キモチャリデモ版
+# KimoChari<br>
+  各ブランチの説明<br>
+  main:現在<br>
+  demo:キモチャリデモ版<br>
